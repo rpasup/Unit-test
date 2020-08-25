@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`All Products renders correctly 1`] = `
+<div
+  className="App"
+>
+  <Products
+    products={
+      Array [
+        Object {
+          "id": 1,
+          "price": 13000,
+          "productName": "Moto G5",
+          "quantity": 2,
+        },
+        Object {
+          "id": 2,
+          "price": 6000,
+          "productName": "Racold Geyser",
+          "quantity": 3,
+        },
+        Object {
+          "id": 3,
+          "price": 50000,
+          "productName": "Dell Inspiron",
+          "quantity": 4,
+        },
+      ]
+    }
+  />
+</div>
+`;
